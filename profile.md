@@ -1,0 +1,5 @@
+- Nama : Endrina Kya Almariva
+- NPM : 2313020035
+- Hobi : Menggambar
+- Bahasa pemrograman yang ingin dipelajari : Python
+- Target karier di bidang teknologi : Sebagai Data Analyst
